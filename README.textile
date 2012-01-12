@@ -45,6 +45,7 @@ sendmailコマンドが使えない環境の場合は、perlの基本的なパ�
 
 
 
+<pre<hr /> </pre>
 
 h1. diff_dns.sh : 複数のdnsサーバのホスト一覧比較スクリプト　テンプレ
 
